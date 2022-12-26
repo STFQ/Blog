@@ -179,6 +179,8 @@ yat:
 
 # Build settings
 # highlighter: none
+theme: jekyll-text-theme
+
 markdown: kramdown
 kmarkdown:
   input: GFM
